@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [tylerburr.dev](tylerburr.dev)
+- 👨‍💻 I love to automate processes and build backend software.
 
 - 📫 How to reach me **tyler@burr.dev**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/TylerBurr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="TylerBurr" /></a></p><br><br>
-
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tylerburr&show_icons=true&locale=en&layout=compact" alt="tylerburr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tylerburr&" alt="tylerburr" /></p>
