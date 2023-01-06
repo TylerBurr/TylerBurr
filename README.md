@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/awakmee" target="blank"><img src="https://img.shields.io/twitter/follow/awakmee?logo=twitter&style=for-the-badge" alt="awakmee" /></a> </p>
 
-- 🔭 I’m currently working on **Network Automation**
+- 🔭 I’m currently working on **GraphQL**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [tylerburr.dev](tylerburr.dev)
 
