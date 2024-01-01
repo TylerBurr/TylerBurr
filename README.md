@@ -11,7 +11,6 @@
 
 - 👨‍💻 I love to automate processes and build backend software.
 
-- 📫 How to reach me **tyler@burr.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
